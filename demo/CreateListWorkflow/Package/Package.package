@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="d6eb16a9-a8df-4036-a7e5-10e5bb906601" 
+        solutionId="d6eb16a9-a8df-4036-a7e5-10e5bb906601" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="CreateListWorkflow"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="60dfae93-d5bc-48b7-a631-fabfe7b32fc9" />
+  </features>
+</package>
