@@ -106,13 +106,13 @@ Common things you'll do
 
 
 DEMO: Create a List in the HostWeb
-==================================
+----------------------------------
 ![demo](img/demo02.gif)
 
 
 
 Resources
 =========
-- [Pluralsight: SharePoint 2013 Workflow - Web Services: Module 3 "Workflows & Working with the SharePoint 2013REST API"](http://pluralsight.com/training/Courses/TableOfContents/sharepoint-2013-workflow-web-services)
+- [Pluralsight: SharePoint 2013 Workflow - Web Services: Module 3 "Workflows & Working with the SharePoint 2013 REST API"](http://pluralsight.com/training/Courses/TableOfContents/sharepoint-2013-workflow-web-services)
 - [MSDN: Create a workflow with elevated permissions by using the SharePoitn 2013 Workflow platform](http://msdn.microsoft.com/en-us/library/office/jj822159.aspx)
 - [GitHub: ExecuteSPRestApi by Alex Randall (Microsoft)](https://github.com/alex-randall/Office365WorkflowScenarios/tree/master/src/ExecuteSPRestApi)
