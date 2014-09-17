@@ -1,7 +1,7 @@
 Overview
 ========
 - [Understanding SharePoint 2013 Workflow](#understanding-sharepoint-2013-workflow)
-- [SharePoint Designer 2013 + SharePoint 2013 REST AP](#sharepoint-designer-2013--sharepoint-2013-rest-api)
+- [SharePoint Designer 2013 + SharePoint 2013 REST API](#sharepoint-designer-2013--sharepoint-2013-rest-api)
 - [Visual Studio 2013 + SharePoint 2013 REST API](#visual-studio-2013--sharepoint-2013-rest-api)
 
 
