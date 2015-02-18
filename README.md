@@ -29,3 +29,5 @@ Objectives
 ----------
 - Learn how you can use the SharePoint 2013 REST API to extend workflow capabilities
 - Learn how to authenticate from Workflow Manager 1.x => SharePoint
+
+[![Analytics](https://ga-beacon.appspot.com/UA-59889067-1/pres-sp15workflow-restapi/readme)](https://github.com/igrigorik/ga-beacon)
